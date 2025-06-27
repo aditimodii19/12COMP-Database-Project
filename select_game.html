@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Game Selection</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- stylesheets *******************************************-->
+    <link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+
+     <!-- Google Font: Luckiest Guy *******************************************-->
+    <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet">
+
+    <!-- firebase styles ************************************-->
+    <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/3.5.2/firebaseui.css" />
+</head>
+
+<body>
+  
+  <div class="container" style="text-align: center; margin-top: 40px;">
+    <header>
+       <h1 style="font-family: 'Luckiest Guy', cursive; font-size: 45px;">
+         Please select one of my games!
+       </h1>
+    </header>
+  </div>
+
+  <section style="position: fixed; bottom: 20px; width: 100%; text-align: center;">
+    <button onclick="window.location.href='fc_home.html'">Play my Term 1 Game (fruit catcher) </button>
+    <button onclick="window.location.href='under_dev.html'">Game 2</button>
+</section>
+
+   <script type="module" src="./main.mjs"></script>
+   
+</body>
+</html>
+
+<!--***********************************************************
+    	YOUR EXISTING HTML PAGE WHICH WILL LINK TO THE ADMIN PAGE
+    ************************************************************-->
+    <main>
+            <button id="b_lpAdmin" 
+                    style="background-color: grey; width: 100%;"
+                    class="w3-button w3-border w3-margin" 
+                    onclick="window.location = 'ad_manager.html'">ADMIN
+                </button>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

@@ -1,1 +1,1 @@
-# 12COMP-Database-Project
+# 12COMP-Project-Database

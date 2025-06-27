@@ -1,0 +1,63 @@
+{
+  "admin": {
+    "3shPnUJFNsdzJEtX5knFcxPfP8x1": "\"Y\"",
+    "aaa": "Y"
+  },
+  "scores": {
+    "fc": {
+      "3shPnUJFNsdzJEtX5knFcxPfP8x1": {
+        "displayName": "Aditi Modi",
+        "score": 9,
+        "uid": "3shPnUJFNsdzJEtX5knFcxPfP8x1"
+      },
+       "aaa": {
+        "displayName": "Aditi aaa",
+        "score": 2,
+        "uid": "aaa"
+      },
+       "bbb": {
+        "displayName": "Aditi bbb",
+        "score": 5,
+        "uid": "bbb"
+      },
+       "ccc": {
+        "displayName": "Aditi ccc",
+        "score": 1,
+        "uid": "ccc"
+      }
+    }
+  },
+  "userDetails": {
+    "3shPnUJFNsdzJEtX5knFcxPfP8x1": {
+      "age": "16",
+      "displayName": "aditi",
+      "email": "22031am@hvhs.school.nz",
+      "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJV4iWUosHD2ixFBOToDMUXQhPn2IqrQziLI8__Nvva4GU0_lU=s96-c",
+      "sex": "female",
+      "uid": "3shPnUJFNsdzJEtX5knFcxPfP8x1"
+    },
+    "AskpG2ouzWXNrL57N56DBo6HGcM2": {
+      "age": "16",
+      "displayName": "aditi",
+      "email": "aditi.modii09@gmail.com",
+      "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKW1FE_YIIzdUD6SwAproNhOkDUS1SmsotbAoydSl6LjrpUKw=s96-c",
+      "sex": "female",
+      "uid": "AskpG2ouzWXNrL57N56DBo6HGcM2"
+    },
+    "aaaaa": {
+      "displayName": "my Bro",
+      "email": "myBro.com",
+      "photoURL": "www.myBro.com",
+      "sex": "female",
+      "uid": "aaaaa"
+    },
+    "n": {
+      "a": {
+        "displayName": "n/a",
+        "email": "n/a",
+        "photoURL": "n/a",
+        "uid": "n/a"
+      }
+    }
+  }
+}
