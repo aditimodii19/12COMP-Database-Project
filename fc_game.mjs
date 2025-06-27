@@ -12,7 +12,6 @@ import { fb_initialise, fb_readrecord, fb_writeScore } from './fb_io.mjs';
 fb_initialise();
 /**************************************************************/
 
-
 /*******************************************************/
 // variables()
 /*******************************************************/
@@ -367,7 +366,6 @@ function html_listen4Debug() {
 window.preload = preload;
 window.draw = draw;
 window.setup = setup;
-
 window.read_record = fb_readrecord;
 
 /*******************************************************/

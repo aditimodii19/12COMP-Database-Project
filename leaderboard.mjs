@@ -11,7 +11,6 @@ import { fb_initialise, fb_sortedread } from './fb_io.mjs';
 fb_initialise();
 /**************************************************************/
 
-
 /**************************************************************/
 // Leaderboard code goes here
 // 
@@ -21,7 +20,6 @@ fb_sortedread();
 document.getElementById('backHomeBtn').onclick = () => {
   window.location.href = 'fc_home.html';
 };
-
 
 /*******************************************************/
 // END OF APP
